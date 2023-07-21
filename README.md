@@ -17,7 +17,10 @@ Phones have essentially become the focal point of our everyday lives, and the mo
     -	Your Slot (Reserved Slot)
     -	Time
 
+          ![image](https://github.com/PRJ29-PRJ30/Smart_Parking_Mobile_Application/assets/97122999/daab57e2-5d7c-4c85-8448-eec9b1bdc87c) 
 
+          Figure 1
+    
 
 ## 2- Usage Cases of the Application
 
@@ -34,6 +37,17 @@ Phones have essentially become the focal point of our everyday lives, and the mo
 
     The first reservation is successfully completed by following these steps, and these data are seen in the Firebase Database.
 
+
+    ![image](https://github.com/PRJ29-PRJ30/Smart_Parking_Mobile_Application/assets/97122999/a5e84839-1143-4f27-bbf7-2a01ea7b6902)
+
+    Figure 2
+
+
+    ![image](https://github.com/PRJ29-PRJ30/Smart_Parking_Mobile_Application/assets/97122999/059fdd96-6ca0-431c-9fa6-429311b6838b)
+
+    Figure 3
+  
+
 - ***CASE 2: Delayed Arrival***
 
     If the user arrives after the check-out time indicated in their reservation details, the following steps are applied.
@@ -49,6 +63,10 @@ Phones have essentially become the focal point of our everyday lives, and the mo
     -	Step 6: Click the Bar-down button and remove your vehicle from the parking area after the barrier is lowered.
     -	Step 7: Make sure you have removed your vehicle and click the Bar-up button.
     -	Step 8: Click the Cancel button.
+
+    ![image](https://github.com/PRJ29-PRJ30/Smart_Parking_Mobile_Application/assets/97122999/35554e8e-b62e-4325-a8e7-d9d0d49ae25c)
+
+    Figure 4
  
 - ***CASE 3: Early Arrival***
 
@@ -63,3 +81,6 @@ Phones have essentially become the focal point of our everyday lives, and the mo
     -	Step 6: Make sure you have removed your vehicle and click the Bar-up button.
     -	Step 7: Click the Cancel button.
 
+    ![image](https://github.com/PRJ29-PRJ30/Smart_Parking_Mobile_Application/assets/97122999/b14dc90a-dff6-4b84-9974-18e3c6a49c9a)
+
+    Figure 5
